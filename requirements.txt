@@ -5,7 +5,6 @@ anaconda==0.0.1.1
 annotated-types==0.6.0
 anyio==4.2.0
 appdirs==1.4.3
-apturl==0.5.2
 attrs==19.3.0
 autodoc==0.5.0
 awscli==1.32.5
